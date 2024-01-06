@@ -7,7 +7,7 @@ class App extends Component{
   state={
     productos:[
       {name: "Tomate",
-       precio:1900222,
+       precio:1900,
       img:'/productos/tomate.jpeg'},
       {name: "Lechuga",
        precio:1300,
